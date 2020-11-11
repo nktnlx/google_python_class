@@ -4,9 +4,9 @@ Hi there!
 I'm intensively learning to code and interested in data science, aiming to be hired by the end of 2020.  
 This repository is for completed projects and code snippets from [Google's Python Class](https://developers.google.com/edu/python)  
 
-Quote:
+Official Description of the Class:
 > "Welcome to Google's Python Class -- this is a free class for people with a little bit of
-> programming experience who want to learn Python. The class includes written materials,>
+> programming experience who want to learn Python. The class includes written materials,
 > lecture videos, and lots of code exercises to practice Python coding. These materials 
 > are used within Google to introduce Python to people who have just a little programming 
 > experience. The first exercises work on basic Python concepts like strings and lists, 
@@ -17,12 +17,15 @@ Quote:
 > material". 
 
 
-List of files:
-1. my_hello.py -- script to print 'Hello World!' or use a command line argument to greet a user with his name provided as a command line argument.
-2. my_string.py --
+### List of files:
+1. **my_hello.py** -- script to print 'Hello World!' or use a command line argument to greet a user with his name provided as a command line argument.
+2. **my_string1.py** -- printing and slicing strings exercises.
+3. **my_string2.py** -- slicing and using conditional statements strings exercises.
+4. **my_list1.py** -- manipulatiing lists and sorting exercises.
+5. **my_list2.py** -- custom sorting, manipulating lists and tuples exercises.  
 
 
-
+  
 Hope this repo will help you to assess my coding skills or will be just fun for you to play with.  
 
 
