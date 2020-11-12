@@ -23,6 +23,9 @@ Official Description of the Class:
 3. **my_string2.py** -- slicing and using conditional statements strings exercises.
 4. **my_list1.py** -- manipulatiing lists and sorting exercises.
 5. **my_list2.py** -- custom sorting, manipulating lists and tuples exercises.  
+6. **my_wordcount.py** -- counts how often each word appears in the text read from a file and prints words sorted in alphabetic oreder together with their occurance frequency counted ('--count' option) OR prints top ten most frequent words sorted by their occurance in the ascending order ('--topcount' option). Doesn't account for punctuation.  
+Usage: python3 wordcount.py {--count | --topcount} filename.txt  
+alice.txt -- *'Alice's Adventures in Wonderland'* full text to demonstrate **my_wordcount.py** script capabilities.
 
 
   
