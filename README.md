@@ -30,7 +30,14 @@ alice.txt -- *'Alice's Adventures in Wonderland'* full text to demonstrate my_wo
 to a list of all the words that immediately follow that word in the file. Then takes mimic dict and prints a 100 random words text based on the mimic dict. Every time gives you a fun jibber-jabber output.
 e.g. based on *'Alice's Adventures in Wonderland'*
 ```
-Attending to see what a won't you down the Gryphon; and every door led into her hands and half down on in larger, I to get through the be the Dodo replied rather the slowly back again with the chimney close by taking the other guinea-pig immediately suppressed I think (she was 'Up above a right distance--but then Alice dear!' cried the air: it saw down from beginning to see you? And it'll make out of them. The Rabbit noticed that this she could hear oneself speak.
+Attending to see what a won't you down the Gryphon; and every door
+led into her hands and half down on in larger, I to get through
+the be the Dodo replied rather the slowly back again with the
+chimney close by taking the other guinea-pig immediately suppressed
+I think (she was 'Up above a right distance--but then Alice dear!'
+cried the air: it saw down from beginning to see you? And it'll
+make out of them. The Rabbit noticed that this she could hear
+oneself speak.
 ```
 
 
