@@ -25,7 +25,13 @@ Official Description of the Class:
 5. **my_list2.py** -- custom sorting, manipulating lists and tuples exercises.  
 6. **my_wordcount.py** -- counts how often each word appears in the text read from a file and prints words sorted in alphabetic oreder together with their occurance frequency counted ('--count' option) OR prints top ten most frequent words sorted by their occurance in the ascending order ('--topcount' option). Doesn't account for punctuation.  
 Usage: python3 wordcount.py {--count | --topcount} filename.txt  
-alice.txt -- *'Alice's Adventures in Wonderland'* full text to demonstrate **my_wordcount.py** script capabilities.
+alice.txt -- *'Alice's Adventures in Wonderland'* full text to demonstrate my_wordcount.py script capabilities.
+7. **my_mimic.py** -- Builds a "mimic" dict that maps each word that appears in the file
+to a list of all the words that immediately follow that word in the file. Then takes mimic dict and prints a 100 random words text based on the mimic dict. Every time gives you a fun jibber-jabber output.
+e.g. based on *'Alice's Adventures in Wonderland'*
+```
+Attending to see what a won't you down the Gryphon; and every door led into her hands and half down on in larger, I to get through the be the Dodo replied rather the slowly back again with the chimney close by taking the other guinea-pig immediately suppressed I think (she was 'Up above a right distance--but then Alice dear!' cried the air: it saw down from beginning to see you? And it'll make out of them. The Rabbit noticed that this she could hear oneself speak.
+```
 
 
   
