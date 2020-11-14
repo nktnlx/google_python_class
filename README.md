@@ -39,7 +39,8 @@ cried the air: it saw down from beginning to see you? And it'll
 make out of them. The Rabbit noticed that this she could hear
 oneself speak.
 ```  
-8. **babynames** -- folder contains data with the most frequent 1000 babynames according to The Social Security administration US. The data is sorted by year and stored in html files. **my_babynames.py** script reads data from html files, takes males and females babynames together with ranks by use of Regular Expressions and prints out alphabetically sorted babynames data ([year, 'name rank', ... ]) or writes this data into a .txt file. After writing data into summary txt-files you can extract some cool insights about babynames trends, e.g. use *grep 'Trinity ' \*.txt* and you'll notice that after The Matrix movie was aired in 2000, name Trinity became literally 10 times more popular!
+8. **babynames** -- folder contains data with the most frequent 1000 babynames according to The Social Security administration US. The data is sorted by year and stored in html files. **my_babynames.py** script reads data from html files, takes males and females babynames together with ranks by use of Regular Expressions and prints out alphabetically sorted babynames data ([year, 'name rank', ... ]) or writes this data into a .txt file. After writing data into summary txt-files you can extract some cool insights about babynames trends, e.g. use *grep 'Trinity ' \*.txt* and you'll notice that after The Matrix movie was aired in 1999, name Trinity became literally 10 times more popular!  
+  
 
 
   
