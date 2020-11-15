@@ -17,7 +17,7 @@ Official Description of the Class:
 > material". 
 
 
-### List of files:
+### List of files and folders:
 1. **my_hello.py** -- script to print 'Hello World!' or use a command line argument to greet a user with his name provided as a command line argument.
 2. **my_string1.py** -- printing and slicing strings exercises.
 3. **my_string2.py** -- slicing and using conditional statements strings exercises.
@@ -39,8 +39,12 @@ cried the air: it saw down from beginning to see you? And it'll
 make out of them. The Rabbit noticed that this she could hear
 oneself speak.
 ```  
-8. **babynames** -- folder contains data with the most frequent 1000 babynames according to The Social Security administration US. The data is sorted by year and stored in html files. **my_babynames.py** script reads data from html files (babynames_data.zip), takes males and females babynames together with ranks by use of Regular Expressions and prints out alphabetically sorted babynames data ([year, 'name rank', ... ]) or writes this data into a .txt file. After writing data into summary txt-files you can extract some cool insights about babynames trends, e.g. use *grep 'Trinity ' \*.txt* and you'll notice that after The Matrix movie was aired in 1999, name Trinity became literally 10 times more popular!  
-  
+8. **babynames** -- folder contains data with the most frequent 1000 babynames according to The Social Security administration US. The data is sorted by year and stored in html files (babynames_data.zip). **my_babynames.py** script reads data from html files, takes males and females babynames together with their ranks by use of Regular Expressions and prints out alphabetically sorted babynames data ([year, 'name rank', ... ]) or writes this data into a .txt file. After writing data into summary txt-files you can extract some cool insights about babynames trends, e.g. use *grep 'Trinity ' \*.txt* and you'll notice that after The Matrix movie was aired in 1999, name Trinity became literally 10 times more popular!  
+9. **copyspecial** -- folder contains a script (**my_copyspecial.py**) and some data to run the script on. The script performs following tasks based on the provided command line arguments:  
+- given a folder name returns a list of its special files (in an absolute path form)  
+- copies all of the given files to a given directory  
+- zips all of the given files to a new zip-file with a given name  
+Usage: python2 my_copyspecial.py [--todir dir][--tozip zipfile] dir [dir ...]
 
 
   
