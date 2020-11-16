@@ -45,7 +45,7 @@ oneself speak.
 - copies all of the given files to a given directory  
 - zips all of the given files to a new zip-file with a given name  
 Usage: python2 my_copyspecial.py [--todir dir][--tozip zipfile] dir [dir ...]  
-10. **logpuzzle** -- folder contains a script (**my_logpuzzle.py**) and data (**animal_code.google.com**) to run the script on. The **result** folder contains results of running the script. The script performs following tasks:  
+10. **logpuzzle** -- folder contains a script (**my_logpuzzle.py**) and data (**animal_code.google.zip** - first unzip the file to run the script on). The **result** folder contains results of running the script. The script performs following tasks:  
 - reads the animal_code.google.com file and looks for links to download parts of an image
 - removes duplicated links
 - sorts the final list of links in an alphabetical order
